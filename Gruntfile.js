@@ -6,7 +6,7 @@ module.exports = function(grunt) {
     elm: {
       compile: {
         files: {
-          'App/build/bundle.js': 'App/Main.elm'
+          'App/build/bundle.js': 'App/TryIt.elm'
         }
       }
     },
